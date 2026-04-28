@@ -13,6 +13,9 @@
     "git.useEditorAsCommitInput": false,
     "git.rebaseWhenSync": true,
     "terminal.integrated.ignoreProcessKeybindingWarnings": true,
+    "git.gpgSign": false,
+    "workbench.colorTheme": "Dark Modern",
+    
     "files.exclude": {
       ".gitignore": true,
       "**/.github": true,
